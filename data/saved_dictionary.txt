@@ -1,0 +1,11 @@
+a 2
+again 2
+code 1
+hello 3
+is 1
+just 1
+of 1
+small 1
+test 2
+this 1
+world 2

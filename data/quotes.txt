@@ -1,0 +1,2 @@
+The quick brown fox jumps over the lazy dog.
+The quick fox is fast. But the dog is loyal.

@@ -1,0 +1,5 @@
+# Ignore compiled binary & logs
+dictionary_app
+*.o
+logs/log.txt
+
